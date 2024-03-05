@@ -6,6 +6,8 @@ Based on the design philosophy, each plugin will only have one topic and won't h
 
 All plugins have been designed with internationalization in mind and have been tested on production servers. If you encountered any problem or want to contribute to the project, feel free to create an issue or pull request.
 
+You may need to install [MSUCore](https://github.com/MSUPlugins/MSUCore) first, as most MSU plugins share a portion of common code such as internationalization and configuration.
+
 <!--
 
 **Here are some ideas to get you started:**
